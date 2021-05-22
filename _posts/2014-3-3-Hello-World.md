@@ -1,16 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Data Science and Statistics
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+### What do you think being a data scientist is about?
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+### What do you see as the major duties and/or knowledge areas?  
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+### What differences/similarities do you see between data scientists and statisticians?  
 
-## Header 2 (H1 is reserved for post titles)##
-
-### Header 3
-
-#### Header 4
+### How do you view yourself in relation to these two areas?
