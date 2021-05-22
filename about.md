@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello Everyone! Welcome to my blog!
+
+My name is Halid Kopanski. My current job title is Automation Engineer and I have spent the last 13 years working on process control systems mainly in the pharma/biotech industry. At the moment, I am a part time student in the Masters of Statistics program at NCSU. As far as completed education, I have a bachelors degree in Chemical Engineering from NCSU and a Masters in Engineering Management from Duke University.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+....
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[khalid.kopanski@gmail.com](mailto:khalid.kopanski@gmail.com)
