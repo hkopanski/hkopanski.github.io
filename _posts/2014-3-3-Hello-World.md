@@ -2,11 +2,20 @@
 layout: post
 title: Data Science and Statistics
 ---
+*What do you think being a data scientist is about?*
 
-### What do you think being a data scientist is about?
+Data scientists, from what I have experienced so far, tend to be industry specific data wranglers that mainly focus on creating models to predict some outcome. They differ from data analysts that tend to look for casual relationships in data and presenting that data. Or from a statistician, who would more likely be involved in the collection of data and is well versed in how that data (or model) represents a given population. For example, a data scientist would be able to create an algorithm that determines what subset of songs a listener of a certain genre might enjoy based on some existing data. A statistician would be able to determine whether or not that algorithm actually means listeners actually like those songs, or are they listening to them just because the algorithm presented those songs. Data scientists would be less likely to be involved in pure research fields, especially in clinical trials. In that area, data collection and analysis would need to be handled with the strict rigors found in traditional statistics.
 
-### What do you see as the major duties and/or knowledge areas?  
+*What do you see as the major duties and/or knowledge areas?*
 
-### What differences/similarities do you see between data scientists and statisticians?  
+One of the most important duties of a data scientist is the handling of computer processing power and memory management. They need to cognizant how data is input into a processor, how much memory should be allocated, how to vectorize data, and how to process data using a GPU versus a CPU. There is a heavy need for data scientists to be competent in computer engineering. They also need to know how to prepare data for processing. Meaning, how to clean data without altering the information in that data. This importance is driven by the size of the datasets a data scientist would more often than not be working with.  
 
-### How do you view yourself in relation to these two areas?
+*What differences/similarities do you see between data scientists and statisticians?*
+
+There is heavy overlap between the two professions and, depending on individual qualifications, certain people would be able to switch between the two relatively easy. That being said, statisticians are much more strict with the collection and interpretation of data and of the subsequently derived models. Data scientists usually work with already existing data that may be heavily biased. Also, data scientists have a greater focus on processing infrastructure than a statistician would.
+
+Outside of those differences, the two professions share the same realm of mathematics and use the same statistics concepts, such as p-values, t-tests, distributions, etc. As mentioned earlier, a data set may be heavily biased, so a data scientist would need to be ale to handle that bias in a similar fashion as a statistician.
+
+*How do you view yourself in relation to these two areas?*
+
+At this point in my education and career, I am far from qualified to be a statistician (hopefully that is only temporary). I do see myself being able to adapt what I have learned so far as a statistics student and apply that to my profession as an automation engineer. Putting that into practice would classify me as a data scientist. One example I have toyed with is integrating real time predictive analytics to biotech processes, mainly bioreactors. Currently, when running a bioreactor, there are strict limits on parameters that must be controlled. Parameters such as pH, temperature, and dissolved oxygen (DO)(these are usually classified as critical, though there are many other parameters). Those limits are determined in a lab setting using a scaled down version of the process. Even though these parameters are controlled and maintained within a certain range, yields still vary greatly from batch to batch. One thing that I would like to try is to see if a batch yield can be predicted ahead of time based on current conditions and if that yield is suboptimal, to make recommendations on how to adjust those conditions. To me this is more data science than statistics, since I would not be trying to understand why one parameter should be adjusted instead of another for a particular batch, but simply that it would need to be. I would also be concerned with processing abilities of the control system. I do not want to introduce delays into the control system that could adversely affect the process. A statistician would more likely be using that data and work alongside the research scientists to determine statistical significance of the parameters and if other parameters should be reclassified as critical. 
