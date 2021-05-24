@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science and Statistics
-theme: jekyll-theme-architect
+theme: architect
 ---
 *What do you think being a data scientist is about?*
 
