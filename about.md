@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image](https://raw.githubusercontent.com/hkopanski/hkopanski.github.io/master/images/IMG_20200805_145551142.jpg){: width="50" }
+![image](https://raw.githubusercontent.com/hkopanski/hkopanski.github.io/master/images/IMG_20200805_145551142.jpg)
 
 Hello Everyone! Welcome to my blog!
 
