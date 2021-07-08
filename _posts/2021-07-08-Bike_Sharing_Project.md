@@ -19,6 +19,6 @@ That github is the most important tool anyone working with code can have. From v
 
 **Links to Project**
 
-[Github pages](cristagregg.github.io/st558_project2)
+[Github pages](https://cristagregg.github.io/st558_project2/)
 
 [Repo pages](https://github.com/cristagregg/st558_project2)
